@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    text-align: center;
+    margin: auto;
+    font-family: 'Comic Neue', cursive;
+}
+body{
+    background-color: black;
+}
+div{
+    color: yellow;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    font-family: 'Comic Neue', cursive;
+}
+#abc{
+    cursor: pointer;
+}
+#hi{
+    cursor: pointer;
+    position:relative;
+    top: 300px;
+    right: 100px;
+}
